@@ -97,7 +97,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.markdown("<h1 style='text-align: center; color: red;'>Warzo 😎 </h1>", unsafe_allow_html=True)
+#st.markdown("<h1 style='text-align: center; color: red;'>Warzo 😎 </h1>", unsafe_allow_html=True)
 # Example Streamlit elements
 st.markdown("<h1 style='text-align: center; color: white;'>မြန်မာ့ရိုးရာ ဗေဒင် နည်းပညာဖြင့် လုပ်ငန်းအမည်ပေးခြင်း</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: violet;'>AI Baydin ♈ ♉ ♓</h2>", unsafe_allow_html=True)
